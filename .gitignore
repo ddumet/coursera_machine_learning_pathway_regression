@@ -1,0 +1,7 @@
+# Datasets
+data/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Quizz file
